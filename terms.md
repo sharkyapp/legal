@@ -23,7 +23,7 @@ These Terms are governed by the laws of New South Wales, Australia, and the Comm
 
 ## 2. The Nature of the Service — Read This First
 
-**Sharky displays an Environmental Conditions Index ("the Index"), a numerical score (0–100) and accompanying level (NEUTRAL / ELEVATED / HIGH / SEVERE) that reflects the likelihood of bull shark presence in nearshore marine environments based on publicly available environmental data.**
+**Sharky displays an Environmental Conditions Index ("the Index"), a numerical score (0–100) and accompanying level (NEUTRAL / ELEVATED / SIGNIFICANT / EXTREME) that reflects the likelihood of bull shark presence in nearshore marine environments based on publicly available environmental data.**
 
 **The Index is an environmental observation tool only. It is not:**
 
@@ -79,7 +79,7 @@ The Service covers selected beaches in New South Wales, Australia. Not all beach
 
 ### 5.3 Model Limitations
 
-The scoring model is based on published peer-reviewed environmental research. It is a probabilistic environmental model, not a deterministic prediction of shark presence. Environmental signals do not determine shark behaviour with certainty. A NEUTRAL score does not mean no sharks are present, and a SEVERE score does not mean a shark incident will occur.
+The scoring model is based on published peer-reviewed environmental research. It is a probabilistic environmental model, not a deterministic prediction of shark presence. Environmental signals do not determine shark behaviour with certainty. A NEUTRAL score does not mean no sharks are present, and an EXTREME score does not mean a shark incident will occur.
 
 ### 5.4 Update Frequency
 
