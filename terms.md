@@ -13,7 +13,7 @@ title: Terms of Use — Sharky
 
 ## 1. About These Terms
 
-These Terms of Use ("Terms") govern your access to and use of the Sharky application, website, and related services (collectively, the "Service"), operated by Sebastiaan Korsten ("we", "us", or "our"), an entity registered in New South Wales, Australia.
+These Terms of Use ("Terms") govern your access to and use of the Sharky application, website, and related services (collectively, the "Service"), operated by Seb Korsten ("we", "us", or "our"), an entity registered in New South Wales, Australia.
 
 By accessing or using the Service, you agree to be bound by these Terms. If you do not agree, you must not use the Service.
 
@@ -238,7 +238,7 @@ These Terms constitute the entire agreement between you and us regarding your us
 
 For questions about these Terms or any other inquiry:
 
-**Sebastiaan Korsten**
+**Seb Korsten**
 Email: hello@sharkyapp.com
 
 ---

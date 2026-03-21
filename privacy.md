@@ -13,7 +13,7 @@ title: Privacy Policy — Sharky
 
 ## 1. About This Policy
 
-This Privacy Policy explains how Sebastiaan Korsten ("we", "us", or "our") collects, uses, stores, and protects your personal information when you use the Sharky application and related services (the "Service").
+This Privacy Policy explains how Seb Korsten ("we", "us", or "our") collects, uses, stores, and protects your personal information when you use the Sharky application and related services (the "Service").
 
 We handle personal information in accordance with the *Privacy Act 1988* (Cth) and the Australian Privacy Principles (APPs).
 
@@ -118,7 +118,7 @@ We may update this policy from time to time. When we do, we will update the "Las
 
 For privacy-related questions or requests:
 
-**Sebastiaan Korsten**
+**Seb Korsten**
 
 Email: hello@sharkyapp.com
 
