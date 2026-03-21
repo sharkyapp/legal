@@ -216,7 +216,7 @@ We may update these Terms from time to time. When we make material changes, we w
 
 These Terms are governed by the laws of New South Wales, Australia, and the Commonwealth of Australia. You agree to submit to the non-exclusive jurisdiction of the courts of New South Wales.
 
-Before initiating formal legal proceedings, you agree to first contact us at appsharky@gmail.com and attempt to resolve the dispute in good faith within 30 days.
+Before initiating formal legal proceedings, you agree to first contact us at hello@sharkyapp.com and attempt to resolve the dispute in good faith within 30 days.
 
 Nothing in this clause prevents either party from seeking urgent injunctive or other equitable relief.
 
@@ -239,7 +239,7 @@ These Terms constitute the entire agreement between you and us regarding your us
 For questions about these Terms or any other inquiry:
 
 **Sebastiaan Korsten**
-Email: appsharky@gmail.com
+Email: hello@sharkyapp.com
 
 ---
 

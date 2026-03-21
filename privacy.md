@@ -92,7 +92,7 @@ No method of transmission or storage is completely secure. We cannot guarantee a
 
 ## 6. Data Retention
 
-We retain your account information and preferences for as long as your account exists. If you wish to have your data deleted, contact us at appsharky@gmail.com and we will delete your account and associated data.
+We retain your account information and preferences for as long as your account exists. If you wish to have your data deleted, contact us at hello@sharkyapp.com and we will delete your account and associated data.
 
 ---
 
@@ -104,7 +104,7 @@ Under the Australian Privacy Principles, you have the right to:
 - **correct** information that is inaccurate or out of date; and
 - **request deletion** of your personal information.
 
-To exercise any of these rights, contact us at appsharky@gmail.com.
+To exercise any of these rights, contact us at hello@sharkyapp.com.
 
 ---
 
@@ -120,7 +120,7 @@ For privacy-related questions or requests:
 
 **Sebastiaan Korsten**
 
-Email: appsharky@gmail.com
+Email: hello@sharkyapp.com
 
 ---
 
